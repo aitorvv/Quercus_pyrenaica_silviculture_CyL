@@ -1,0 +1,17 @@
+"File_name","Numero_ejecuciones_escenario","Numero_ejecuciones_con_G","Numero_ejecuciones_con_V","Indice_biodiversidad_madera_muerta_G_CESEFOR","Indice_biodiversidad_madera_muerta_V_CESEFOR","Ratio_G","Ratio_V"
+"LR_SG02_QP2__Output_Plot_sg02.xlsx",14,6,6,5,0,0.833333333333333,0
+"LR_SG02_control__Output_Plot_sg02.xlsx",14,6,6,6,0,1,0
+"LR_SG02_expertos__Output_Plot_sg02.xlsx",14,7,7,4,0,0.571428571428571,0
+"LR_SG02_mix__Output_Plot_sg02.xlsx",14,6,6,4,0,0.666666666666667,0
+"LR_SO02_QP2__Output_Plot_so02.xlsx",14,0,0,0,0,NA,NA
+"LR_SO02_control__Output_Plot_so02.xlsx",14,5,5,5,0,1,0
+"LR_SO02_expertos__Output_Plot_so02.xlsx",14,6,6,2,0,0.333333333333333,0
+"LR_SO02_mix__Output_Plot_so02.xlsx",14,0,0,0,0,NA,NA
+"LR_irregular_QP2__Output_Plot_sg02_mix.xlsx",14,10,10,4,0,0.4,0
+"LR_irregular_QP2__Output_Plot_so02_mix.xlsx",14,10,10,4,0,0.4,0
+"LR_irregular_control__Output_Plot_sg02_mix.xlsx",14,10,10,10,0,1,0
+"LR_irregular_control__Output_Plot_so02_mix.xlsx",14,10,10,10,0,1,0
+"LR_irregular_expertos__Output_Plot_sg02_mix.xlsx",14,10,10,4,0,0.4,0
+"LR_irregular_expertos__Output_Plot_so02_mix.xlsx",14,10,10,7,0,0.7,0
+"LR_irregular_mix__Output_Plot_sg02_mix.xlsx",14,10,10,4,0,0.4,0
+"LR_irregular_mix__Output_Plot_so02_mix.xlsx",14,10,10,6,0,0.6,0

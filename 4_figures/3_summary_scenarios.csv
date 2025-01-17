@@ -1,0 +1,202 @@
+n_scnr,Scenario_age,Action,Harvest_type,Harvest_criteria,Harvest_severity,Trees_to_preserve,Scenario_name,Inventory_name
+SG02_control,60,Execution,-,-,-,-,control,SG02
+SG02_control,70,Execution,-,-,-,-,control,SG02
+SG02_control,80,Execution,-,-,-,-,control,SG02
+SG02_control,90,Execution,-,-,-,-,control,SG02
+SG02_control,100,Execution,-,-,-,-,control,SG02
+SG02_control,110,Execution,-,-,-,-,control,SG02
+SG02_control,120,Execution,-,-,-,-,control,SG02
+SG02_control,130,Execution,-,-,-,-,control,SG02
+SG02_control,140,Execution,-,-,-,-,control,SG02
+SG02_expertos,50,Thinning,Systematic thinning with future trees,Percentage of trees,20,-,cyl,SG02
+SG02_expertos,50,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,60,Execution,-,-,-,-,cyl,SG02
+SG02_expertos,60,Thinning,Systematic thinning with future trees,Percentage of trees,20,-,cyl,SG02
+SG02_expertos,60,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,70,Execution,-,-,-,-,cyl,SG02
+SG02_expertos,80,Execution,-,-,-,-,cyl,SG02
+SG02_expertos,80,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,80,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,90,Execution,-,-,-,-,cyl,SG02
+SG02_expertos,90,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,90,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,100,Execution,-,-,-,-,cyl,SG02
+SG02_expertos,110,Execution,-,-,-,-,cyl,SG02
+SG02_expertos,110,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,110,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,120,Execution,-,-,-,-,cyl,SG02
+SG02_expertos,120,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,120,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,130,Execution,-,-,-,-,cyl,SG02
+SG02_expertos,140,Execution,-,-,-,-,cyl,SG02
+SG02_expertos,140,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,140,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SG02
+SG02_expertos,150,Execution,-,-,-,-,cyl,SG02
+SG02_mix,50,Thinning,Low thinning,Percentage of trees,25,-,mix,SG02
+SG02_mix,50,Thinning,Systematic thinning with future trees,Percentage of trees,10,40,mix,SG02
+SG02_mix,60,Execution,-,-,-,-,mix,SG02
+SG02_mix,70,Execution,-,-,-,-,mix,SG02
+SG02_mix,70,Thinning,Low thinning,Percentage of trees,25,-,mix,SG02
+SG02_mix,70,Thinning,Systematic thinning with future trees,Percentage of trees,10,40,mix,SG02
+SG02_mix,80,Execution,-,-,-,-,mix,SG02
+SG02_mix,90,Execution,-,-,-,-,mix,SG02
+SG02_mix,90,Thinning,Systematic thinning with future trees,Percentage of trees,15,40,mix,SG02
+SG02_mix,100,Execution,-,-,-,-,mix,SG02
+SG02_mix,110,Execution,-,-,-,-,mix,SG02
+SG02_mix,110,Thinning,Systematic thinning with future trees,Percentage of trees,15,40,mix,SG02
+SG02_mix,120,Execution,-,-,-,-,mix,SG02
+SG02_mix,130,Execution,-,-,-,-,mix,SG02
+SG02_mix,130,Thinning,Systematic thinning with future trees,Percentage of trees,15,40,mix,SG02
+SG02_mix,140,Execution,-,-,-,-,mix,SG02
+SG02_mix,150,Execution,-,-,-,-,mix,SG02
+SG02_QP2,50,Thinning,Low thinning,Percentage of trees,20,-,gal,SG02
+SG02_QP2,60,Execution,-,-,-,-,gal,SG02
+SG02_QP2,60,Thinning,Low thinning,Percentage of trees,20,-,gal,SG02
+SG02_QP2,70,Execution,-,-,-,-,gal,SG02
+SG02_QP2,80,Execution,-,-,-,-,gal,SG02
+SG02_QP2,80,Thinning,Low thinning,Percentage of trees,10,-,gal,SG02
+SG02_QP2,90,Execution,-,-,-,-,gal,SG02
+SG02_QP2,100,Execution,-,-,-,-,gal,SG02
+SG02_QP2,100,Thinning,Low thinning,Percentage of trees,10,-,gal,SG02
+SG02_QP2,110,Execution,-,-,-,-,gal,SG02
+SG02_QP2,120,Execution,-,-,-,-,gal,SG02
+SG02_QP2,120,Thinning,Low thinning,Percentage of trees,10,-,gal,SG02
+SG02_QP2,130,Execution,-,-,-,-,gal,SG02
+SG02_QP2,140,Execution,-,-,-,-,gal,SG02
+SG02_QP2,140,Thinning,Low thinning,Percentage of trees,10,-,gal,SG02
+SG02_QP2,150,Execution,-,-,-,-,gal,SG02
+irregular_control,60,Execution,-,-,-,-,control,irregular
+irregular_control,70,Execution,-,-,-,-,control,irregular
+irregular_control,80,Execution,-,-,-,-,control,irregular
+irregular_control,90,Execution,-,-,-,-,control,irregular
+irregular_control,100,Execution,-,-,-,-,control,irregular
+irregular_control,110,Execution,-,-,-,-,control,irregular
+irregular_control,120,Execution,-,-,-,-,control,irregular
+irregular_control,130,Execution,-,-,-,-,control,irregular
+irregular_control,140,Execution,-,-,-,-,control,irregular
+irregular_expertos,60,Execution,-,-,-,-,cyl,irregular
+irregular_expertos,70,Execution,-,-,-,-,cyl,irregular
+irregular_expertos,70,Thinning,Systematic thinning with future trees,Percentage of trees,10,30,cyl,irregular
+irregular_expertos,70,Thinning,High thinning,Volume,10,-,cyl,irregular
+irregular_expertos,80,Execution,-,-,-,-,cyl,irregular
+irregular_expertos,90,Execution,-,-,-,-,cyl,irregular
+irregular_expertos,90,Thinning,Systematic thinning with future trees,Percentage of trees,10,30,cyl,irregular
+irregular_expertos,90,Thinning,High thinning,Volume,10,-,cyl,irregular
+irregular_expertos,100,Execution,-,-,-,-,cyl,irregular
+irregular_expertos,110,Execution,-,-,-,-,cyl,irregular
+irregular_expertos,110,Thinning,Systematic thinning with future trees,Percentage of trees,10,30,cyl,irregular
+irregular_expertos,110,Thinning,High thinning,Volume,10,-,cyl,irregular
+irregular_expertos,120,Execution,-,-,-,-,cyl,irregular
+irregular_expertos,130,Execution,-,-,-,-,cyl,irregular
+irregular_expertos,130,Thinning,Systematic thinning with future trees,Percentage of trees,10,30,cyl,irregular
+irregular_expertos,130,Thinning,High thinning,Volume,10,-,cyl,irregular
+irregular_expertos,140,Execution,-,-,-,-,cyl,irregular
+irregular_expertos,150,Execution,-,-,-,-,cyl,irregular
+irregular_mix,60,Execution,-,-,-,-,mix,irregular
+irregular_mix,70,Execution,-,-,-,-,mix,irregular
+irregular_mix,70,Thinning,Low thinning,Percentage of trees,5,-,mix,irregular
+irregular_mix,70,Thinning,Systematic thinning with future trees,Percentage of trees,5,30,mix,irregular
+irregular_mix,70,Thinning,High thinning,Volume,10,-,mix,irregular
+irregular_mix,80,Execution,-,-,-,-,mix,irregular
+irregular_mix,90,Execution,-,-,-,-,mix,irregular
+irregular_mix,90,Thinning,Low thinning,Percentage of trees,5,-,mix,irregular
+irregular_mix,90,Thinning,Systematic thinning with future trees,Percentage of trees,5,30,mix,irregular
+irregular_mix,90,Thinning,High thinning,Volume,10,-,mix,irregular
+irregular_mix,100,Execution,-,-,-,-,mix,irregular
+irregular_mix,110,Execution,-,-,-,-,mix,irregular
+irregular_mix,110,Thinning,Low thinning,Percentage of trees,5,-,mix,irregular
+irregular_mix,110,Thinning,Systematic thinning with future trees,Percentage of trees,5,30,mix,irregular
+irregular_mix,110,Thinning,High thinning,Volume,10,-,mix,irregular
+irregular_mix,120,Execution,-,-,-,-,mix,irregular
+irregular_mix,130,Execution,-,-,-,-,mix,irregular
+irregular_mix,130,Thinning,Low thinning,Percentage of trees,5,-,mix,irregular
+irregular_mix,130,Thinning,Systematic thinning with future trees,Percentage of trees,5,30,mix,irregular
+irregular_mix,130,Thinning,High thinning,Volume,10,-,mix,irregular
+irregular_mix,140,Execution,-,-,-,-,mix,irregular
+irregular_mix,150,Execution,-,-,-,-,mix,irregular
+irregular_QP2,60,Execution,-,-,-,-,gal,irregular
+irregular_QP2,70,Execution,-,-,-,-,gal,irregular
+irregular_QP2,70,Thinning,Low thinning,Percentage of trees,10,-,gal,irregular
+irregular_QP2,70,Thinning,High thinning,Volume,20,-,gal,irregular
+irregular_QP2,80,Execution,-,-,-,-,gal,irregular
+irregular_QP2,90,Execution,-,-,-,-,gal,irregular
+irregular_QP2,90,Thinning,Low thinning,Percentage of trees,10,-,gal,irregular
+irregular_QP2,90,Thinning,High thinning,Volume,20,-,gal,irregular
+irregular_QP2,100,Execution,-,-,-,-,gal,irregular
+irregular_QP2,110,Execution,-,-,-,-,gal,irregular
+irregular_QP2,110,Thinning,Low thinning,Percentage of trees,10,-,gal,irregular
+irregular_QP2,110,Thinning,High thinning,Volume,20,-,gal,irregular
+irregular_QP2,120,Execution,-,-,-,-,gal,irregular
+irregular_QP2,130,Execution,-,-,-,-,gal,irregular
+irregular_QP2,130,Thinning,Low thinning,Percentage of trees,10,-,gal,irregular
+irregular_QP2,130,Thinning,High thinning,Volume,20,-,gal,irregular
+irregular_QP2,140,Execution,-,-,-,-,gal,irregular
+irregular_QP2,150,Execution,-,-,-,-,gal,irregular
+SO02_control,60,Execution,-,-,-,-,control,SO02
+SO02_control,70,Execution,-,-,-,-,control,SO02
+SO02_control,80,Execution,-,-,-,-,control,SO02
+SO02_control,90,Execution,-,-,-,-,control,SO02
+SO02_control,100,Execution,-,-,-,-,control,SO02
+SO02_control,110,Execution,-,-,-,-,control,SO02
+SO02_control,120,Execution,-,-,-,-,control,SO02
+SO02_control,130,Execution,-,-,-,-,control,SO02
+SO02_control,140,Execution,-,-,-,-,control,SO02
+SO02_expertos,50,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,50,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,60,Execution,-,-,-,-,cyl,SO02
+SO02_expertos,60,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,60,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,70,Execution,-,-,-,-,cyl,SO02
+SO02_expertos,80,Execution,-,-,-,-,cyl,SO02
+SO02_expertos,80,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,80,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,90,Execution,-,-,-,-,cyl,SO02
+SO02_expertos,90,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,90,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,100,Execution,-,-,-,-,cyl,SO02
+SO02_expertos,110,Execution,-,-,-,-,cyl,SO02
+SO02_expertos,110,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,110,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,120,Execution,-,-,-,-,cyl,SO02
+SO02_expertos,120,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,120,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,130,Execution,-,-,-,-,cyl,SO02
+SO02_expertos,140,Execution,-,-,-,-,cyl,SO02
+SO02_expertos,140,Thinning,High thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,140,Thinning,Systematic thinning with future trees,Percentage of trees,10,-,cyl,SO02
+SO02_expertos,150,Execution,-,-,-,-,cyl,SO02
+SO02_mix,50,Thinning,Systematic thinning with future trees,Percentage of trees,10,30,mix,SO02
+SO02_mix,60,Execution,-,-,-,-,mix,SO02
+SO02_mix,70,Execution,-,-,-,-,mix,SO02
+SO02_mix,70,Thinning,Low thinning,Percentage of trees,10,-,mix,SO02
+SO02_mix,70,Thinning,Systematic thinning with future trees,Percentage of trees,10,30,mix,SO02
+SO02_mix,80,Execution,-,-,-,-,mix,SO02
+SO02_mix,90,Execution,-,-,-,-,mix,SO02
+SO02_mix,90,Thinning,Low thinning,Percentage of trees,10,-,mix,SO02
+SO02_mix,90,Thinning,Systematic thinning with future trees,Percentage of trees,10,30,mix,SO02
+SO02_mix,100,Execution,-,-,-,-,mix,SO02
+SO02_mix,110,Execution,-,-,-,-,mix,SO02
+SO02_mix,110,Thinning,Low thinning,Percentage of trees,10,-,mix,SO02
+SO02_mix,110,Thinning,Systematic thinning with future trees,Percentage of trees,10,30,mix,SO02
+SO02_mix,120,Execution,-,-,-,-,mix,SO02
+SO02_mix,130,Execution,-,-,-,-,mix,SO02
+SO02_mix,130,Thinning,Low thinning,Percentage of trees,10,-,mix,SO02
+SO02_mix,130,Thinning,Systematic thinning with future trees,Percentage of trees,10,30,mix,SO02
+SO02_mix,140,Execution,-,-,-,-,mix,SO02
+SO02_mix,150,Execution,-,-,-,-,mix,SO02
+SO02_QP2,50,Thinning,Low thinning,Percentage of trees,10,-,gal,SO02
+SO02_QP2,60,Execution,-,-,-,-,gal,SO02
+SO02_QP2,60,Thinning,Low thinning,Percentage of trees,10,-,gal,SO02
+SO02_QP2,70,Execution,-,-,-,-,gal,SO02
+SO02_QP2,80,Execution,-,-,-,-,gal,SO02
+SO02_QP2,80,Thinning,Low thinning,Percentage of trees,20,-,gal,SO02
+SO02_QP2,90,Execution,-,-,-,-,gal,SO02
+SO02_QP2,100,Execution,-,-,-,-,gal,SO02
+SO02_QP2,100,Thinning,Low thinning,Percentage of trees,20,-,gal,SO02
+SO02_QP2,110,Execution,-,-,-,-,gal,SO02
+SO02_QP2,120,Execution,-,-,-,-,gal,SO02
+SO02_QP2,120,Thinning,Low thinning,Percentage of trees,20,-,gal,SO02
+SO02_QP2,130,Execution,-,-,-,-,gal,SO02
+SO02_QP2,140,Execution,-,-,-,-,gal,SO02
+SO02_QP2,140,Thinning,Low thinning,Percentage of trees,20,-,gal,SO02
+SO02_QP2,150,Execution,-,-,-,-,gal,SO02
