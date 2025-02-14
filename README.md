@@ -64,30 +64,35 @@ The content of this repository is under the [MIT license](./LICENSE).
 
 #### Aitor Vázquez Veloso:
 
-[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv) \\ 
-[ORCID](https://orcid.org/0000-0003-0227-506X) \\
-[Researchgate](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso) \\
-[LinkedIn](https://www.linkedin.com/in/aitorvazquezveloso/) \\
-[Twitter](https://twitter.com/aitorvv) \\
-[UVa](https://portaldelaciencia.uva.es/investigadores/178830/detalle)
+[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv) 
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aitor.vazquez.veloso@uva.es)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0227--506X-green?logo=orcid)](https://orcid.org/0000-0003-0227-506X)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=XNMn1cUAAAAJ&hl=es&oi=ao)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/aitorvazquezveloso/)
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://twitter.com/aitorvv)
+[<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_200_200/company-logo_200_200/0/1692170343519/universidad_de_valladolid_logo?e=1747872000&v=beta&t=1mTS-xC7h3L_DQATdt6hpqjWGgW_Am3MXKnjYwcOVZs" alt="Description" width="22">](https://portaldelaciencia.uva.es/investigadores/178830/detalle)
 
 #### Angel Cristóbal Ordóñez Alonso:
 
-[![](https://github.com/acristo.png?size=50)](https://github.com/acristo) \\
-[ORCID](https://orcid.org/0000-0001-5354-3760) \\
-[Researchgate](https://www.researchgate.net/profile/Cristobal-Ordonez-Alonso) \\
-[LinkedIn](https://www.linkedin.com/in/cristobal-ordonez-b6a97244/) \\
-[Twitter](https://twitter.com/OrdonezAC) \\
-[UVa](https://portaldelaciencia.uva.es/investigadores/181312/detalle)
+[![](https://github.com/acristo.png?size=50)](https://github.com/acristo) 
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0227--506X-green?logo=orcid)](https://orcid.org/0000-0001-5354-3760) 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Cristobal-Ordonez-Alonso) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/cristobal-ordonez-b6a97244/) 
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://twitter.com/OrdonezAC) 
+[<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_200_200/company-logo_200_200/0/1692170343519/universidad_de_valladolid_logo?e=1747872000&v=beta&t=1mTS-xC7h3L_DQATdt6hpqjWGgW_Am3MXKnjYwcOVZs" alt="Description" width="22">](https://portaldelaciencia.uva.es/investigadores/181312/detalle)
 
 #### Felipe Bravo Oviedo:
 
-[![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo) \\
-[ORCID](https://orcid.org/0000-0001-7348-6695) \\
-[Researchgate](https://www.researchgate.net/profile/Felipe-Bravo-11) \\
-[LinkedIn](https://www.linkedin.com/in/felipebravooviedo) \\
-[Twitter](https://twitter.com/fbravo_SFM) \\
-[UVa](https://portaldelaciencia.uva.es/investigadores/181874/detalle)
+[![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo) 
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0227--506X-green?logo=orcid)](https://orcid.org/0000-0001-7348-6695) 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Felipe-Bravo-11) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/felipebravooviedo) 
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://twitter.com/fbravo_SFM) 
+[<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_200_200/company-logo_200_200/0/1692170343519/universidad_de_valladolid_logo?e=1747872000&v=beta&t=1mTS-xC7h3L_DQATdt6hpqjWGgW_Am3MXKnjYwcOVZs" alt="Description" width="22">](https://portaldelaciencia.uva.es/investigadores/181874/detalle)
 
 ---
 
