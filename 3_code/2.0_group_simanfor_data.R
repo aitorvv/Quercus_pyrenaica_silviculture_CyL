@@ -216,16 +216,22 @@ accumulated_simanfor_data <- function(path, inventory){
           # if it is another row, then difference between rows is added in abs()
         } else {
           
-          # add increment to the previous value
-          all_V <- all_V + abs(new_row$V_diff)
-          all_SIERRA_GRUESA_LR <- all_SIERRA_GRUESA_LR + abs(new_row$SIERRA_GRUESA_LR_diff)
-          all_SIERRA_LR <- all_SIERRA_LR + abs(new_row$SIERRA_LR_diff)
-          all_DUELAS_INTONA <- all_DUELAS_INTONA + abs(new_row$DUELAS_INTONA_diff)
-          all_DUELAS_FONDO_INTONA <- all_DUELAS_FONDO_INTONA + abs(new_row$DUELAS_FONDO_INTONA_diff)
-          all_MADERA_LAMINADA_GAMIZ <- all_MADERA_LAMINADA_GAMIZ + abs(new_row$MADERA_LAMINADA_GAMIZ_diff)
-          all_VARIOS_GARCIA_VARONA <- all_VARIOS_GARCIA_VARONA + abs(new_row$VARIOS_GARCIA_VARONA_diff)
-          all_CARBON <- all_CARBON + abs(new_row$CARBON_diff)
-          all_WT <- all_WT + abs(new_row$WT_diff)
+          # estimate increment except on harvests, that must be excluded
+          # acc_variable <- acc_variable + abs(new_row$diff)
+          if(new_row$V_diff > 0){
+            
+            # add increment to the previous value
+            all_V <- all_V + new_row$V_diff
+            all_SIERRA_GRUESA_LR <- all_SIERRA_GRUESA_LR + new_row$SIERRA_GRUESA_LR_diff
+            all_SIERRA_LR <- all_SIERRA_LR + new_row$SIERRA_LR_diff
+            all_DUELAS_INTONA <- all_DUELAS_INTONA + new_row$DUELAS_INTONA_diff
+            all_DUELAS_FONDO_INTONA <- all_DUELAS_FONDO_INTONA + new_row$DUELAS_FONDO_INTONA_diff
+            all_MADERA_LAMINADA_GAMIZ <- all_MADERA_LAMINADA_GAMIZ + new_row$MADERA_LAMINADA_GAMIZ_diff
+            all_VARIOS_GARCIA_VARONA <- all_VARIOS_GARCIA_VARONA + new_row$VARIOS_GARCIA_VARONA_diff
+            all_CARBON <- all_CARBON + new_row$CARBON_diff
+            all_WT <- all_WT + new_row$WT_diff
+            
+          } 
           
           # add value to the row
           new_row$V_all <- all_V

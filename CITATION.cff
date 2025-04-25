@@ -1,4 +1,4 @@
-cff-version: 1.0.0
+cff-version: 1.0.1
 message: "If you use this resources, please cite it as below."
 authors:
 - family-names: "Vázquez-Veloso"
@@ -10,8 +10,8 @@ authors:
 - family-names: "Bravo"
   given-names: "Felipe"
   orcid: "https://orcid.org/0000-0001-7348-6695"
-title: "A repository with the original data, code and results of: *Silviculture alternatives evaluation for managing complex Quercus pyrenaica stands*"
-version: 1.0.0
+title: "A repository with the original data, code and results of: *Silviculture alternatives evaluation for managing complex Quercus pyrenaica Willd. stands*"
+version: 1.0.1
 doi: 
 date-released: 2025-01-17
 url: "https://github.com/aitorvv/Quercus_pyrenaica_silviculture_CyL"

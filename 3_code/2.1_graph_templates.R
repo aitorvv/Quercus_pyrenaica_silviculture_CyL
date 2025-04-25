@@ -31,7 +31,7 @@ graph_data <- function(df, x, y, class, x_lab, y_lab, path){
             legend.text = element_text(size = 12)) +  # legend content
       
       # set colors and legend name manually
-      scale_color_manual('Scenarios', values = c('lightgrey', 'darkgray', '#6A84E0', 'black')) +
+      scale_color_manual('Scenarios:', values = c('lightgrey', 'darkgray', '#6A84E0', 'black')) +
       
       # plot data
       geom_point() +  # points
@@ -74,7 +74,7 @@ graph_data_g <- function(df, x, y, class, x_lab, y_lab, path){
           legend.text = element_text(size = 12)) +  # legend content
     
     # set colors and legend name manually
-    scale_color_manual('Scenarios', values = c('lightgrey', 'darkgray', '#6A84E0', 'black')) +
+    scale_color_manual('Scenarios:', values = c('lightgrey', 'darkgray', '#6A84E0', 'black')) +
     
     # plot data
     geom_point() +  # points
@@ -120,7 +120,7 @@ graph_data_hart <- function(df, x, y, class, x_lab, y_lab, path){
           legend.text = element_text(size = 12)) +  # legend content
     
     # set colors and legend name manually
-    scale_color_manual('Scenarios', values = c('lightgrey', 'darkgray', '#6A84E0', 'black')) +
+    scale_color_manual('Scenarios:', values = c('lightgrey', 'darkgray', '#6A84E0', 'black')) +
     
     # plot data
     geom_point() +  # points
@@ -166,7 +166,7 @@ graph_data_2vars <- function(df, x, y, y2, class, x_lab, y_lab, path){
           legend.text = element_text(size = 12)) +  # legend content
     
     # set colors and legend name manually
-    scale_color_manual('Scenarios', values = c('lightgrey', 'darkgray', '#6A84E0', 'black')) +
+    scale_color_manual('Scenarios:', values = c('lightgrey', 'darkgray', '#6A84E0', 'black')) +
     
     # plot data
     geom_point() +  # points

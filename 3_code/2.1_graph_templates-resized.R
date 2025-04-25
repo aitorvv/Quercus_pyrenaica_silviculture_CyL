@@ -2,7 +2,7 @@
 ####                        Graphs template for SIMANFOR outputs                        ####
 #                                                                                          #
 #                            Aitor Vázquez Veloso, 15/01/2024                              #
-#                              Last modification: 15/01/2024                               #
+#                              Last modification: 25/04/2025                               #
 #------------------------------------------------------------------------------------------#
 
 
@@ -34,7 +34,7 @@ graph_data <- function(df, x, y, class, x_lab, y_lab, path){
             legend.position = 'bottom',  # legend position
             legend.text = element_text(size = 14),  # legend content
             panel.background = element_rect(fill = 'white')) +  # legend content
-      scale_color_manual(name = 'Scenarios', values = c('#708090', '#228B22', '#FF7F50', '#DAA520')) 
+      scale_color_manual(name = 'Scenarios:', values = c('#708090', '#228B22', '#FF7F50', '#DAA520')) 
 
   # view graph 
   graph
@@ -73,7 +73,7 @@ graph_data_g <- function(df, x, y, class, x_lab, y_lab, path){
           legend.position = 'bottom',  # legend position
           legend.text = element_text(size = 14),  # legend content
           panel.background = element_rect(fill = 'white')) +  # legend content
-    scale_color_manual(name = 'Scenarios', values = c('#708090', '#228B22', '#FF7F50', '#DAA520')) + 
+    scale_color_manual(name = 'Scenarios:', values = c('#708090', '#228B22', '#FF7F50', '#DAA520')) + 
     
     # plot data
     geom_point() +  # points
@@ -120,7 +120,7 @@ graph_data_hart <- function(df, x, y, class, x_lab, y_lab, path){
           legend.position = 'bottom',  # legend position
           legend.text = element_text(size = 14),  # legend content
           panel.background = element_rect(fill = 'white')) +  # legend content
-    scale_color_manual(name = 'Scenarios', values = c('#708090', '#228B22', '#FF7F50', '#DAA520')) + 
+    scale_color_manual(name = 'Scenarios:', values = c('#708090', '#228B22', '#FF7F50', '#DAA520')) + 
     
     # plot data
     geom_point() +  # points
@@ -167,7 +167,7 @@ graph_data_2vars <- function(df, x, y, y2, class, x_lab, y_lab, path){
           legend.position = 'bottom',  # legend position
           legend.text = element_text(size = 14),  # legend content
           panel.background = element_rect(fill = 'white')) +  # legend content
-    scale_color_manual(name = 'Scenarios', values = c('#708090', '#228B22', '#FF7F50', '#DAA520')) + 
+    scale_color_manual(name = 'Scenarios:', values = c('#708090', '#228B22', '#FF7F50', '#DAA520')) + 
     
     # plot data
     geom_point() +  # points
