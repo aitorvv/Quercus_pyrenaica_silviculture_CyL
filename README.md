@@ -1,10 +1,10 @@
 # *Quercus pyrenaica* silviculture in Castilla and Leon
 
-*A repository with the original data, code and results of: **Silviculture alternatives evaluation for managing complex Quercus pyrenaica stands***
+*A repository with the original data, code and results of: **Silviculture alternatives evaluation for managing complex Quercus pyrenaica Willd. stands***
 
 ---
 
-# Silviculture alternatives evaluation for managing complex *Quercus pyrenaica* stands
+# Silviculture alternatives evaluation for managing complex *Quercus pyrenaica* Willd. stands
 
 :open_file_folder: Repository DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14680267.svg)](https://doi.org/10.5281/zenodo.14680267)
 
