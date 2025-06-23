@@ -6,9 +6,9 @@
 
 # Silviculture alternatives evaluation for managing complex *Quercus pyrenaica* Willd. stands
 
+:bookmark: Poster DOI: http://dx.doi.org/10.13140/RG.2.2.30847.73121
+
 :open_file_folder: Repository DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15281867.svg)](https://doi.org/10.5281/zenodo.15281867)
-
-
 
 📜 Manuscript DOI: <!-- https://doi.org/10.1016/j.ecolmodel.2024.110912 -->
 
