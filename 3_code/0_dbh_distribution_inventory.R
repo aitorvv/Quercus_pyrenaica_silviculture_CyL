@@ -2,7 +2,7 @@
 ####                      Diametric distribution - Life Rebollo                         ####
 #                                                                                          #
 #                            Aitor Vázquez Veloso, 19/09/2023                              #
-#                              Last modification: 15/01/2024                               #
+#                              Last modification: 03/10/2024                               #
 #------------------------------------------------------------------------------------------#
 
 library(openxlsx)
@@ -57,10 +57,11 @@ ggplot(df, aes(x = CD, y = N, fill = Inventario)) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
         plot.title = element_text(size = 20, hjust = 0.5), # title
         plot.subtitle = element_text(size = 15, hjust = 0.5, face = "italic"),
-        axis.title = element_text(size = 15),  # axis
-        legend.title = element_text(size = 15),  # legend title
+        axis.title = element_text(size = 20),  # axis
+        axis.text = element_text(size = 17),  # axis text
+        legend.title = element_text(size = 20),  # legend title
         legend.position = 'bottom',  # legend position
-        legend.text = element_text(size = 12)) +  # legend content
+        legend.text = element_text(size = 17)) +  # legend content
   
   scale_fill_manual(name = 'Inventory', values = c('grey', 'black'))
 
